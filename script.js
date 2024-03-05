@@ -14,4 +14,6 @@ let message = `${userName}${userSurname}${favColor}${number}`;
 document.getElementById("password").innerHTML = message;
 console.log(message);
 
-// let message = userName + userSurname + favColor + number;
+
+/* metodo alternativo per stampare testo
+let message = userName + userSurname + favColor + number; */
